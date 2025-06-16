@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👋 About Me
-Hi! I'm Neha Manda, a Computer Science graduate and certified Data Science enthusiast with a passion for solving real-world problems using data-driven insights. I specialize in data analysis, machine learning, and building end-to-end analytics solutions.
+Hi! I'm Sai Neha, a Computer Science graduate and certified Data Science enthusiast with a passion for solving real-world problems using data-driven insights. I specialize in data analysis, machine learning, and building end-to-end analytics solutions.
 
 🔍 Currently upskilling in data science, analytics, and AI tools.
 
